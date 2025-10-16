@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+id emailInput
+id nameInput
+id sendButton
+id titleText
+layout activity_main
+string app_name
+style Theme.MyApplication
